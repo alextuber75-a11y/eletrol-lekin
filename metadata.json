@@ -1,0 +1,6 @@
+{
+  "name": "EletroGuia Pro - Assistente Elétrico NBR 5410 & Cálculos",
+  "description": "Aplicativo completo para eletricistas, engenheiros e estudantes: dimensionamento de cabos e disjuntores (NBR 5410), queda de tensão, lei de ohm, esquemas interativos de ligação, quadro de cargas e diagnóstico com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
